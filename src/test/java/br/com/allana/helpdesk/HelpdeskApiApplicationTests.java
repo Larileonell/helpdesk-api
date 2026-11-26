@@ -1,4 +1,4 @@
-package br.com.allana.helpdesk_api;
+package br.com.allana.helpdesk;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

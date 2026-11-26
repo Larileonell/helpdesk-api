@@ -1,4 +1,4 @@
-package br.com.allana.helpdesk_api;
+package br.com.allana.helpdesk;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
